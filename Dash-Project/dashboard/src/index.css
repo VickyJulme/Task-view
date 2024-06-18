@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav li a.active{
+    color: rgb(red, green, rgb(84, 177, 235));
+    
+}
